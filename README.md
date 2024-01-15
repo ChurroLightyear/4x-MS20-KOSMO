@@ -18,3 +18,7 @@ The Ms20 new is for a future plan with using 90 degree headers and adding a jack
 !!!theres no protection diodes on this circuit
 for a single filter you may be able to get away without adding the trimpots but the variability in the filters are far too great.
 I used bc558s instead of 557s like kassutronics also and I've heard you should match them but I didn't and it came out fine
+
+The files I used are in the OLD folders and the new folders a future (probably a good bit from now) plan
+
+The new PCBs will have a Panel, control PCB, jacks pcb, and 4 filter stacks on each. The resistor values will be where I found to like them. There will be 2 90 degree mounted adjustment trimpots. Switches for the 12db, 6db shelfs. 4 sets of 90 degree header pins to attach the pcbs to the main board. 1 filter knob, 2 dpdt (on/on) switches for the shelf (filters 1/2 and 3/4), 2 stereo pots (resonance 1/2 and 3/4) 4 cv level pots, 4 lp/hp mix pot, 4 drive pots, 4 input jacks, 4 output jacks and 4 cv jacks. All with no off board wiring (currently its around 100 wires) and removing the standoff holes and power header slots.
