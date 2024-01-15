@@ -1,0 +1,60 @@
+** Drc report for C:\Users\armou\Documents\SHOCKY\PROJECTS\CHURRO\4vcf panel\PCB\REDO ON OLD BOARD\4 VCF FINAL.kicad_pcb **
+** Created on 2023-05-24 20:04:27 **
+
+** Found 14 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(69.8500 mm, 88.5600 mm): Track [Net-(Q1-Pad1)] on B.Cu, length 0.0300 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(69.8500 mm, 86.0200 mm): Track [Net-(Q1-Pad2)] on F.Cu, length 0.1700 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(38.6000 mm, 79.6400 mm): Track [+12V] on F.Cu, length 0.0071 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(105.2700 mm, 70.0200 mm): Track [+12V] on B.Cu, length 0.6700 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(100.3500 mm, 58.7700 mm): Track [Net-(R1-Pad1)] on B.Cu, length 0.2500 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(38.9400 mm, 55.6800 mm): Track [Net-(C2-Pad1)] on F.Cu, length 0.1600 mm
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(32.2500 mm, 79.6000 mm): Value '100n' of C8
+    @(29.8500 mm, 79.6000 mm): Through hole pad 2 [GND] of C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(29.9000 mm, 87.7450 mm): Value '470n' of C3
+    @(27.5000 mm, 87.7450 mm): Through hole pad 2 [Net-(C3-Pad2)] of C3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(38.4500 mm, 90.8500 mm): Value '100n' of C8
+    @(40.8500 mm, 90.8500 mm): Through hole pad 2 [-12V] of C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(52.1000 mm, 61.0000 mm): Value '100n' of C6
+    @(52.1000 mm, 58.6000 mm): Through hole pad 2 [+12V] of C6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(81.7500 mm, 64.1000 mm): Value '100n' of C7
+    @(79.3500 mm, 64.1000 mm): Through hole pad 2 [-12V] of C7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(84.2500 mm, 49.3500 mm): Value '100n' of C7
+    @(81.8500 mm, 49.3500 mm): Through hole pad 2 [GND] of C7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(43.5000 mm, 66.6000 mm): Value '100n' of C7
+    @(41.1000 mm, 66.6000 mm): Through hole pad 2 [-12V] of C7
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(103.3300 mm, 86.1800 mm): Footprint Text 'RED STRIPE' of J0
+    @(108.0050 mm, 85.5300 mm): Line on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

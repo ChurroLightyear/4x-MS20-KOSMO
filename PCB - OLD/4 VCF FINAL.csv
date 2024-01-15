@@ -1,0 +1,33 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"+1, +2, ",2,LED,LED,ao_tht:PinHeader_1x02_P2.54mm_Vertical,Light emitting diode,
+"C1, C2, ",2,1n,C,KOSMO:BOX cap,Unpolarized capacitor,
+"C3, ",1,470n,C,KOSMO:BOX cap,Unpolarized capacitor,
+"C4, ",1,4.7n,C,KOSMO:BOX cap,Unpolarized capacitor,
+"C5, C6, C7, C8, C11, C12, ",6,100n,C,KOSMO:BOX cap,Unpolarized capacitor,
+"C9, C10, ",2,10u,CP,KOSMO:Elec CAP,Polarized capacitor,Tayda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"Q1, Q2, ",2,BC558,BC558,KOSMO:Transistor,"0.1A Ic, 30V Vce, PNP Small Signal Transistor, TO-92",
+,,,,,,
+"R1, R2, R3, R4, R19, R20, ",6,100K,R,KOSMO:R,Resistor,Tayda
+"R5, R17, ",2,4.7k,R,KOSMO:R,Resistor,Tayda
+"R6, R7, R11, R12, ",4,220,R,KOSMO:R,Resistor,Tayda
+"R8, R14, R18, ",3,10k,R,KOSMO:R,Resistor,Tayda
+"R9, R10, R13, ",3,10K,R,KOSMO:R,Resistor,Tayda
+"R15, ",1,1k,R,KOSMO:R,Resistor,Tayda
+"R16, ",1,47k,R,KOSMO:R,Resistor,Tayda
+"R21, ",1,4.7K,R,KOSMO:R,Resistor,Tayda
+"R22, ",1,470k,R,KOSMO:R,Resistor,Tayda
+"R23, ",1,1.8k,R,KOSMO:R,Resistor,Tayda
+,,,,,,
+"CUTOFF1, ",1,100K,R_Potentiometer,ao_tht:PinHeader_1x03_P2.54mm_Vertical,Potentiometer,
+"DRIVE1, ",1,100K,R_Potentiometer,ao_tht:PinHeader_1x03_P2.54mm_Vertical,Potentiometer,
+"RESONANCE1, ",1,100K,R_Potentiometer,ao_tht:PinHeader_1x03_P2.54mm_Vertical,Potentiometer,
+"LP/HP1, ",1,100K,R_Potentiometer,ao_tht:PinHeader_1x03_P2.54mm_Vertical,Potentiometer,
+"RV4, ",1,100K,R_Potentiometer,ao_tht:PinHeader_1x03_P2.54mm_Vertical,Potentiometer,
+,,,,,,
+"U1, ",1,TL072,TL072,KOSMO:TL072,"Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8",
+"U2, ",1,TL074,TL074,KOSMO:TL074,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",
+"U3, ",1,LM13700,LM13700,Package_DIP:DIP-16_W7.62mm,"Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16",

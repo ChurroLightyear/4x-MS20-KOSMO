@@ -1,0 +1,18 @@
+flipped backwards transistors
+replaced resistors with trimpots to adjust scale and position
+removed jumpers to filter level (One knob can control multiple voices)
+changed cv amount resistor to 47k
+removed cv amount resistor from voice board
+place near knobs
+added trimpot and 100k pot to adjust filter position
+replace LP/HP pot with 4pdt switch (Low pass/hi-pass)
+replace inputs with single LP/HP audio in
+Make Trimmers side mounted
+
+1 filter knob
+1 LP/HP switch
+
+(Possible to condense the knob controls to have 1 for each value with VCA!?)
+4 drive knobs
+4 cv amount knobs
+4 resonance knobs
