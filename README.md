@@ -1,4 +1,4 @@
-# 4x-MS20-KOSMO
+# 4x MS20 KOSMO (ROUGH DRAFT)
 This is a stackable but very crude MS20 filter based on the KS20 by Kassutronics
 
 This has been tested and is working with some 100% neccesary changes
